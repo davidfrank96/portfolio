@@ -91,7 +91,7 @@
 	  trailWidth: 5,
 	  svgStyle: {width: '100%', height: '100%'}
 	});
-	bar1.animate(0.64);
+	bar1.animate(0.90);
 	var bar2 = new ProgressBar.Line(progress2, {
 	  strokeWidth: 5,
 	  easing: 'easeInOut',
@@ -101,7 +101,7 @@
 	  trailWidth: 5,
 	  svgStyle: {width: '100%', height: '100%'}
 	});
-	bar2.animate(0.74);
+	bar2.animate(0.84);
 	var bar3 = new ProgressBar.Line(progress3, {
 	  strokeWidth: 5,
 	  easing: 'easeInOut',
@@ -111,7 +111,7 @@
 	  trailWidth: 5,
 	  svgStyle: {width: '100%', height: '100%'}
 	});
-	bar3.animate(0.49);
+	bar3.animate(0.80);
 	var bar4 = new ProgressBar.Line(progress4, {
 	  strokeWidth: 5,
 	  easing: 'easeInOut',
