@@ -1010,7 +1010,8 @@ Version: 1.0
 	color: #fff;
     background: #2B325E;
     padding: 15px 60px;
-    border-radius: 30px;
+	border-radius: 30px;
+	border: solid 2px #6eca3b;
 }
 .contact-top a i {
 	color: #9EA5D1;
